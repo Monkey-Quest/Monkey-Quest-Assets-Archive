@@ -1,4 +1,4 @@
-# Monkey Quest Assets Archive
+# MQ Archive
 # Description
 This repository serves as an archive of the original Unity Web Player cached assets from the period when the official Monkey Quest servers were online.
 
